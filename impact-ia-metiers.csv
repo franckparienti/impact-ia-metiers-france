@@ -1,0 +1,11 @@
+secteur_naf,secteur_label,emplois_concernes,taux_exposition_ia_pct,metiers_plus_impactes,competences_ia_prioritaires,type_formation
+J,Information et communication,780000,72,Developpeurs; chefs de projet IT; analystes,Prompt engineering; RAG; fine-tuning; agents IA,Expertise
+K,Finance et assurance,460000,68,Analystes risques; comptables; conseillers,Automatisation processus; detection fraude; scoring,Operationnelle
+M,Activites scientifiques et techniques,920000,55,Consultants; auditeurs; ingenieurs,IA generative; analyse predictive; NLP,Expertise
+G,Commerce,2100000,45,Vendeurs; acheteurs; responsables stock,Chatbots; recommandation; prevision demande,Sensibilisation
+C,Industrie manufacturiere,2800000,52,Operateurs; techniciens maintenance; qualite,Vision par ordinateur; maintenance predictive; robotique,Operationnelle
+Q,Sante et action sociale,3400000,35,Medecins; infirmiers; aides-soignants,IA diagnostique; planification soins; documentation,Sensibilisation
+P,Enseignement,1700000,30,Enseignants; formateurs; administratifs,Personnalisation apprentissage; evaluation auto; creation contenu,Sensibilisation
+H,Transport et entreposage,1400000,48,Chauffeurs; logisticiens; planificateurs,Optimisation trajets; prevision; vehicules autonomes,Operationnelle
+I,Hebergement et restauration,1100000,25,Cuisiniers; serveurs; receptionnistes,Gestion reservations IA; chatbots clients,Sensibilisation
+N,Services administratifs,1300000,60,Assistants; secretaires; gestionnaires paie,Automatisation documents; extraction donnees; RPA,Operationnelle
